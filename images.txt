@@ -1,5 +1,4 @@
 mysql:8.0.32
 mongo:latest
 mongo:5.0.18
-java:11-jre-slim
 java:8-jdk-alpine
