@@ -1,11 +1,4 @@
-elasticsearch:7.17.14
-kibana:7.17.14
-zookeeper:3.9.0
-kuschzzp/xxl-job-aarch64:2.4.0
-xuxueli/xxl-job-admin:2.4.0
-nacos/nacos-server:v2.2.3-slim
-bitnami/kafka:3.7.0
-nickzurich/kafka-eagle:3.0.2
+nickzurich/kafka-eagle:3.0.1
 logstash:7.14.2
 portainer:latest
 jenkins/jenkins:2.439
