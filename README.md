@@ -7,10 +7,13 @@
     `docker pull registry.cn-hangzhou.aliyuncs.com/my-docker-admin/mysql` 拉取你需要的镜像，如果有版本号，可以添加。如；`mysql:8.0.32`
 
 `docker pull registry.cn-hangzhou.aliyuncs.com/my-docker-admin/mysql:8.0.32`
+
 ---
 ```
 mysql:8.0.32
+mysql:latest
 mongo:latest
 mongo:5.0.18
 java:8-jdk-alpine
+java:11-jre-slim
 ```
