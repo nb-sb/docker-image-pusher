@@ -36,7 +36,7 @@ xxl-job-aarch64:2.4.0
 xxl-job-admin:2.4.0
 nacos-server:v2.2.3-slim
 kafka:3.7.0
-kafka-eagle:3.0.2
+kafka-eagle:3.0.1
 logstash:7.14.2
 registry:latest
 portainer:latest
