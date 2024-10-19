@@ -1,1 +1,1 @@
-jenkins/jenkins:2.439
+hengyunabc/arthas:latest
