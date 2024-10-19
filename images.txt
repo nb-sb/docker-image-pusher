@@ -1,1 +1,1 @@
-hengyunabc/arthas:latest
+mysql:5.7
