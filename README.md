@@ -11,6 +11,7 @@
 ---
 ```
 mysql:latest
+mysql:5.7
 mongo:latest
 mongo:5.0.18
 java:8-jdk-alpine
@@ -42,4 +43,5 @@ registry:latest
 portainer:latest
 jenkins/jenkins:2.439
 hengyunabc/arthas:latest
+ipfs/go-ipfs:latest
 ```
