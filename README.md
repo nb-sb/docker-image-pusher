@@ -45,4 +45,5 @@ jenkins/jenkins:2.439
 hengyunabc/arthas:latest
 ipfs/go-ipfs:latest
 registry:latest
+mlikiowa/llonebot-docker:latest
 ```
