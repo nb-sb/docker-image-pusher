@@ -42,6 +42,7 @@ logstash:7.14.2
 registry:latest
 portainer:latest
 jenkins/jenkins:2.439
+jenkins/jenkins:lts
 hengyunabc/arthas:latest
 ipfs/go-ipfs:latest
 registry:latest
