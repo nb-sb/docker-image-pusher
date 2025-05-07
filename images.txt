@@ -1,1 +1,1 @@
-jenkins/jenkins:lts
+intel/oneapi-hpckit:latest

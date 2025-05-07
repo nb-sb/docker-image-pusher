@@ -47,4 +47,5 @@ hengyunabc/arthas:latest
 ipfs/go-ipfs:latest
 registry:latest
 mlikiowa/llonebot-docker:latest
+intel/oneapi-hpckit:latest
 ```
